@@ -24,3 +24,7 @@ header {
    text-align: center;
    font-style: italic;
    background-image:linear-gradient(to top, #29be62b6, #24b15a)
+}
+.body{
+    background-color: #7fdfa7;
+}
