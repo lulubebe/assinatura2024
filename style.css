@@ -6,4 +6,11 @@ header {
     justify-content: space-around;
     padding: 54px;
     color: #000000;
-    
+}
+
+.titulo1{
+    font-size: 70px;
+    text-align: center;
+    color: #70057e;
+    font-size: italic;
+}
