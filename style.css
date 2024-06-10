@@ -32,8 +32,9 @@ header {
 
 
 .foto-vaca{
-    margin-left: 1px ;
-    margin-bottom: 1px;
-    margin-top: 1px; 
+    margin-left: 100px ;
+    margin-bottom: 100px;
+    margin-top: 100px; 
+    text-align: center;
 
 }
