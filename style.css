@@ -25,7 +25,7 @@ header {
    font-style: italic;
    background-image:linear-gradient(to top, #29be62b6, #24b15a)
 }
-.body{
+body{
    background-color: #26ca65e5;
 }
 
@@ -48,10 +48,6 @@ width: 40%;
 }
 
 
- .vacas{
-    margin-left: 1000px;
-    margin-top: 10px;
-    margin-bottom: 1000px;
-
+ 
 
 }
